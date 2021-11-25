@@ -1,0 +1,13 @@
+F:\C\Hellow world\bin\Debug\netcoreapp3.1\Hellow world.exe
+F:\C\Hellow world\bin\Debug\netcoreapp3.1\Hellow world.deps.json
+F:\C\Hellow world\bin\Debug\netcoreapp3.1\Hellow world.runtimeconfig.json
+F:\C\Hellow world\bin\Debug\netcoreapp3.1\Hellow world.runtimeconfig.dev.json
+F:\C\Hellow world\bin\Debug\netcoreapp3.1\Hellow world.dll
+F:\C\Hellow world\bin\Debug\netcoreapp3.1\Hellow world.pdb
+F:\C\Hellow world\obj\Debug\netcoreapp3.1\Hellow world.csprojAssemblyReference.cache
+F:\C\Hellow world\obj\Debug\netcoreapp3.1\Hellow world.AssemblyInfoInputs.cache
+F:\C\Hellow world\obj\Debug\netcoreapp3.1\Hellow world.AssemblyInfo.cs
+F:\C\Hellow world\obj\Debug\netcoreapp3.1\Hellow world.csproj.CoreCompileInputs.cache
+F:\C\Hellow world\obj\Debug\netcoreapp3.1\Hellow world.dll
+F:\C\Hellow world\obj\Debug\netcoreapp3.1\Hellow world.pdb
+F:\C\Hellow world\obj\Debug\netcoreapp3.1\Hellow world.genruntimeconfig.cache
